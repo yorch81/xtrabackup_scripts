@@ -1,4 +1,4 @@
-# XraBackup Scripts #
+# XtraBackup Scripts #
 
 ## Description ##
 Percona XtraBackup bash scripts
