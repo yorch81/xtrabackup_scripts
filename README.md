@@ -14,5 +14,8 @@ chmod +x backup_inno.sh
 ./backup_inno.sh
 ~~~
 
+## References ##
+https://www.percona.com/software/mysql-database/percona-xtrabackup
+
 P.D. Let's go play !!!
 
