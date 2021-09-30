@@ -14,6 +14,13 @@ chmod +x backup_inno.sh
 ./backup_inno.sh
 ~~~
 
+## Notes ##
+~~~
+For MySQL 8 use Percona XtraBackup 8.0.x and backup_xtra.sh script.
+
+Form MySQL 5.7 use Percona XtraBackup 2.4.x and backup_inno.sh script.
+~~~
+
 ## References ##
 https://www.percona.com/software/mysql-database/percona-xtrabackup
 
